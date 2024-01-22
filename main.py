@@ -18,6 +18,6 @@ async def on_connect():
 
 
 keepalive.keepalive()
-client.run(os.getenv("MTE0NTY4NjQ2NjI0OTM3MTczOQ.GIyWpY.PApcxncvQnPstcKmzCpdfUMRHJyiPVwKZIylf0"), bot=False)
+client.run(os.getenv("token"), bot=False)
 #Now press f5 to run the project
 #credit of project goes to me 
